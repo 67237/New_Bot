@@ -1,0 +1,112 @@
+Bussiness Recorder,Reuters
+Petroleum,Petroleum
+Crude oil,Crude oil
+Power sector,Power sector
+Capacity Charges,Capacity Charges
+RLNG,RLNG
+Petroleum prices,Petroleum prices
+Gas,Gas
+LPG,LPG
+Renewable,Renewable
+Energy,Energy
+Fossil fuels,Fossil fuels
+HSD,HSD
+Gasoline,Gasoline
+Electricity,Electricity
+Capacity payments,Capacity payments
+Power Purchase Agreement,Power Purchase Agreement
+Transmission,Transmission
+NEPRA,NEPRA
+NTDC,NTDC
+PPIB,PPIB
+OGRA,OGRA
+PARCO,PARCO
+Mari,OGDC
+OGDC,POL
+Pakistan Petroleum Limited,Power Division/PD
+POL,DISCOs
+Power Division,IAEA
+DISCOs,GENCOs
+IESCO,Ministry of Energy
+FESCO,National Electricity Plan
+MEPCO,CTBCM
+LESCO,CPPA-G
+GEPCO,Circular debt
+PESCO,Electricity Theft
+SEPCO,Recoveries
+HESCO,Subsidies
+QESCO,IPPs
+TESCO,Tariff
+FESCO,Energy transition
+WAPDA,Hydel
+KE/ K-Electric,Power plants
+GENCOs,Solar 
+Ministry of Energy,Wind
+National Electricity Plan,Nuclear 
+CTBCM,Imported fuels
+CPPA-G,Coal
+Circular debt,RLNG
+Electricity Theft,Thar coal
+Recoveries,Shell
+Subsidies,PSO
+IPPs,Electric
+Tariff,HUBC
+Energy transition,SNGPL
+Hydel,SSGPL
+Power plants,Net metering rate
+Solar ,natgas
+Wind,Green Energy
+Nuclear ,Green finance
+Imported fuels,Carbon capture
+Coal,Voltage
+RLNG,Pakistan LNG Ltd/PLL
+Thar coal,Government Power Plants (GPPs)
+Shell,Firm Gas Orders (FGOs)
+PSO,MMCFD
+Electric,MMBTU
+HUBC,RPP
+SNGPL,CPP
+SSGPL,Net metering 
+Net metering rate,AEDB
+natgas,Grid 
+Green Energy,Grid security
+Green finance,Grid resilience
+Carbon capture,CASA
+Voltage,Export of electricity
+Pakistan LNG Ltd/PLL,Import of electricity
+Government Power Plants (GPPs),Cross border trade of electricity
+Firm Gas Orders (FGOs),CPEC
+MMCFD,IGCEP
+MMBTU,IRENA
+RPP,IEA
+CPP,World Bank
+Net metering ,IMF
+AEDB,ADB
+Grid ,Generation expansion
+Grid security,TSEP
+Grid resilience,System Operator
+CASA,EPP
+Export of electricity,Distribution margin
+Import of electricity,Market Operator Fee
+Cross border trade of electricity,JICA
+CPEC,HDIP
+IGCEP,Bagasse
+IRENA,Local coal
+IEA,Dam
+World Bank,FOREX
+IMF,Export of Petroleum Products
+ADB,Import of Petroleum Products
+Generation expansion,Exxon
+TSEP,shale
+System Operator,Chevron
+EPP,Lukoil
+Distribution margin,Socar
+Market Operator Fee,OPEC+
+JICA,Total Energies
+HDIP,e-fuels
+Bagasse,HIF Global
+Local coal,Brent
+Dam,
+FOREX,
+Export of Petroleum Products,
+Import of Petroleum Products,

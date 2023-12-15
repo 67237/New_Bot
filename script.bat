@@ -1,0 +1,1 @@
+"C:\Python310\python.exe" "F:\ASAD BHAI\SELENIUM\Final_bot.py"
